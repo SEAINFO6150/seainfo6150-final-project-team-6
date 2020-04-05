@@ -1,0 +1,45 @@
+nav {
+  display: flex;
+  align-items: center;
+  padding-left: 20px;
+  padding-right: 50px;
+  border-bottom: 2px solid grey;
+  margin-bottom: 50px;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.logo {
+  width: 80px;
+}
+
+.title {
+  font-family: Futura, Arial, sans-serif;
+  font-size: 25px;
+  font-weight: bold;
+  color: #000;
+}
+
+.navTab {
+  margin-left: 80px;
+  font-family: Futura, Arial, sans-serif;
+  font-size: 20px;
+  color: #000;
+}
+
+.subscribe {
+  margin-left: auto;
+}
+
+.subscribeButton {
+  border-radius: 10px;
+  border: 1px solid black;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 25px;
+  padding-right: 25px;
+  font-size: 20px;
+  font-family: Futura, Arial, sans-serif;
+}
