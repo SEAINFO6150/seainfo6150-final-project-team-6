@@ -8,7 +8,8 @@
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
     "detailURL": "/category/1/1",
-    "categoryURL": "/category/1"
+    "categoryURL": "/category/1",
+    "slug": "Saved in your collection successfully!"
   },
   "Mexican Chicken Corn Chowder": {
     "categoryID": "1",
@@ -19,7 +20,8 @@
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
     "detailURL": "/category/1/2",
-    "categoryURL": "/category/1"
+    "categoryURL": "/category/1",
+    "slug": "Saved in your collection successfully!"
   },
   "Chicken Nuggets": {
     "categoryID": "4",
@@ -30,6 +32,7 @@
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
     "detailURL": "/category/4/1",
-    "categoryURL": "/category/4"
+    "categoryURL": "/category/4",
+    "slug": "Saved in your collection successfully!"
   }
 }

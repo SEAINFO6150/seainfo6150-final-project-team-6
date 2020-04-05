@@ -7,6 +7,7 @@ const getRecipeDetail = (recipe, categoryID, recipeID) => {
       <div>
         <h1>{recipe.name}</h1>
         <p>{recipe.details}</p>
+          <button onClick={() => alert(recipe.slug)}>(Save in your collection)</button>
         <img src={recipe.imageURL} alt={recipe.name} />
         <Link to={recipe.categoryURL}>Back to {recipe.categoryName} Page</Link>
       </div>
