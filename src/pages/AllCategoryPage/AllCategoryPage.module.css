@@ -1,0 +1,104 @@
+.soupcategory {
+    margin-left: auto;
+}
+
+.soupcategorybutton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #a8e063;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid green;
+}
+
+.appetizercategory {
+    margin-left: auto;
+}
+
+.appetizercategorybutton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #fa7934;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+}
+
+.maincoursecategory {
+    margin-left: auto;
+}
+
+.maincoursecategorybutton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #919ef2;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+}
+
+.snackcategory {
+    margin-left: auto;
+}
+
+.snackcategorybutton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #c988f2;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+}
+
+.dessertcategory {
+    margin-left: auto;
+}
+
+.dessertcategorybutton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #eff57d;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid yellow;
+}
