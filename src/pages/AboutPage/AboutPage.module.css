@@ -1,0 +1,5 @@
+.container {
+    max-width:60rem;
+    min-width:20em;
+    margin: auto;
+  }
