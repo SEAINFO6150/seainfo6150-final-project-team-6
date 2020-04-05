@@ -1,0 +1,35 @@
+{
+  "Cream of mushroom soup": {
+    "categoryID": "1",
+    "recipeID": "1",
+    "categoryName": "Soup",
+    "name": "Cream of mushroom soup",
+    "description": "A declicous soup",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "detailURL": "/category/1/1",
+    "categoryURL": "/category/1"
+  },
+  "Mexican Chicken Corn Chowder": {
+    "categoryID": "1",
+    "recipeID": "2",
+    "categoryName": "Soup",
+    "name": "Mexican Chicken Corn Chowder",
+    "description": "A declicous soup",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "detailURL": "/category/1/2",
+    "categoryURL": "/category/1"
+  },
+  "Chicken Nuggets": {
+    "categoryID": "4",
+    "recipeID": "1",
+    "categoryName": "Snack",
+    "name": "Chicken Nuggets",
+    "description": "A declicous snack",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "detailURL": "/category/4/1",
+    "categoryURL": "/category/4"
+  }
+}
