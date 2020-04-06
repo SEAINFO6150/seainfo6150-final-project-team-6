@@ -1,14 +1,15 @@
 import React from "react";
 import { Link } from "react-router-dom";
+import styles from "./CategoryPage.module.css";
 
 const getRecipePreview = (recipe, categoryID) => {
   if (recipe.categoryID === categoryID) {
     return (
       <div>
         <Link to={recipe.detailURL}>
-          <p>{recipe.name}</p>
+          <p className={styles.soupRecipeName}>{recipe.name}</p>
         </Link>
-        <p>{recipe.description}</p>
+        <p className={styles.soupRecipeDescription}>{recipe.description}</p>
       </div>
     );
   }
