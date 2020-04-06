@@ -1,8 +1,8 @@
-.soupcategory {
+.soupCategory {
     margin-left: auto;
 }
 
-.soupcategorybutton {
+.soupCategoryButton {
     display: flex;
     align-items: center;
     color: black;
@@ -19,11 +19,11 @@
     border: 2px solid green;
 }
 
-.appetizercategory {
+.appetizerCategory {
     margin-left: auto;
 }
 
-.appetizercategorybutton {
+.appetizerCategoryButton {
     display: flex;
     align-items: center;
     color: black;
@@ -42,11 +42,11 @@
     border: 2px solid red;
 }
 
-.maincoursecategory {
+.mainCourseCategory {
     margin-left: auto;
 }
 
-.maincoursecategorybutton {
+.mainCourseCategoryButton {
     display: flex;
     align-items: center;
     color: black;
@@ -65,11 +65,11 @@
     border: 2px solid blue;
 }
 
-.snackcategory {
+.snackCategory {
     margin-left: auto;
 }
 
-.snackcategorybutton {
+.snackCategoryButton {
     display: flex;
     align-items: center;
     color: black;
@@ -88,11 +88,11 @@
     border: 2px solid purple;
 }
 
-.dessertcategory {
+.dessertCategory {
     margin-left: auto;
 }
 
-.dessertcategorybutton {
+.dessertCategoryButton {
     display: flex;
     align-items: center;
     color: black;
