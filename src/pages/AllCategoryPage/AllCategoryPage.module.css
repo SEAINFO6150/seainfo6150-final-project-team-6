@@ -29,7 +29,9 @@
     color: black;
     background: #fa7934;
     font-size: 25px;
-    position: relative;
+    position: absolute;
+    left: 250px;
+    top: 350px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
@@ -51,6 +53,8 @@
     background: #919ef2;
     font-size: 25px;
     position: relative;
+    left: 550px;
+    top: -150px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
@@ -72,6 +76,8 @@
     background: #c988f2;
     font-size: 25px;
     position: relative;
+    left: 950px;
+    top: -520px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
@@ -93,6 +99,8 @@
     background: #eff57d;
     font-size: 25px;
     position: relative;
+    left: 850px;
+    top: -530px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
