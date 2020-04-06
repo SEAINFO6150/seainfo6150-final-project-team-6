@@ -1,7 +1,11 @@
 .soupRecipeName {
     text-align: center;
+    font-size: 130%;
+    font-family: Arial, sans-serif;
+    font-weight: bold;
 }
 
 .soupRecipeDescription {
     text-align: center;
+    font-style: italic;
 }
