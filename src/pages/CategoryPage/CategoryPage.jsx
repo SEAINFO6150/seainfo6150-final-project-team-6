@@ -7,9 +7,9 @@ const getRecipePreview = (recipe, categoryID) => {
     return (
       <div>
         <Link to={recipe.detailURL}>
-          <p className={styles.soupRecipeName}>{recipe.name}</p>
+          <p className={styles.recipeName}>{recipe.name}</p>
         </Link>
-        <p className={styles.soupRecipeDescription}>{recipe.description}</p>
+        <p className={styles.recipeDescription}>{recipe.description}</p>
       </div>
     );
   }
