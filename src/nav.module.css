@@ -7,15 +7,12 @@ nav {
   margin-bottom: 50px;
 }
 
-.link {
-  text-decoration: none;
-}
-
 .logo {
   width: 80px;
 }
 
 .title {
+  text-decoration: none;
   font-family: Futura, Arial, sans-serif;
   font-size: 25px;
   font-weight: bold;
@@ -23,6 +20,7 @@ nav {
 }
 
 .navTab {
+  text-decoration: none;
   margin-left: 80px;
   font-family: Futura, Arial, sans-serif;
   font-size: 20px;
@@ -30,16 +28,15 @@ nav {
 }
 
 .subscribe {
+  text-decoration: none;
   margin-left: auto;
-}
-
-.subscribeButton {
-  border-radius: 10px;
   border: 1px solid black;
+  border-radius: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
   padding-left: 25px;
   padding-right: 25px;
-  font-size: 20px;
   font-family: Futura, Arial, sans-serif;
+  font-size: 20px;
+  color: #000;
 }
