@@ -20,7 +20,7 @@ to see how this content is passed down to the components via props */
 const myCollection = {
   title: "Delicious Soup",
   category: "Soup",
-  detail: "how to cook the soup"
+  detail: "how to cook the soup",
 };
 
 function App() {
@@ -28,30 +28,30 @@ function App() {
     <Router>
       <header>
         <nav>
-          <Link className={styles.link} to="/">
+          <Link to="/">
             <img
               className={styles.logo}
               src="/images/homechef.jpg"
               alt="home chef"
             />
           </Link>
-          <Link className={styles.link} to="/">
-            <h1 className={styles.title}>HOME CHEF</h1>
+          <Link className={styles.title} to="/">
+            HOME CHEF
           </Link>
-          <Link className={styles.link} to="/category">
-            <div className={styles.navTab}>All Category</div>
+          <Link className={styles.navTab} to="/category">
+            All Category
           </Link>
-          <Link className={styles.link} to="/collection">
-            <div className={styles.navTab}>My Collection</div>
+          <Link className={styles.navTab} to="/collection">
+            My Collection
           </Link>
-          <Link className={styles.link} to="/about">
-            <div className={styles.navTab}>About Us</div>
+          <Link className={styles.navTab} to="/about">
+            About Us
           </Link>
-          <Link className={styles.link} to="/contact">
-            <div className={styles.navTab}>Contact Us</div>
+          <Link className={styles.navTab} to="/contact">
+            Contact Us
           </Link>
           <Link className={styles.subscribe} to="/subscribe">
-            <button className={styles.subscribeButton}>Subscribe</button>
+            Subscribe
           </Link>
         </nav>
       </header>

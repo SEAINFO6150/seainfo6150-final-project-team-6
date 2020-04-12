@@ -1,11 +1,63 @@
-.recipeName {
-    text-align: center;
-    font-size: 130%;
-    font-family: Arial, sans-serif;
-    font-weight: bold;
+.categoryContainer {
+  max-width: 60em;
+  min-width: 20em;
+  margin: auto;
 }
 
-.recipeDescription {
-    text-align: center;
-    font-style: italic;
+.categoryBackLink {
+  text-decoration: none;
+  color: black;
+  font-size: 20px;
+  font-family: Futura, Arial, sans-serif;
+}
+
+.categoryCard {
+  text-decoration: none;
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  margin-top: 50px;
+  border: 2px solid grey;
+  border-radius: 50px;
+  padding: 50px;
+}
+
+.categoryRecipeImg {
+  grid-column-start: 1;
+  grid-column-end: 2;
+  align-self: center;
+  width: 300px;
+}
+
+.categoryRecipe {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  align-self: center;
+  padding-left: 50px;
+}
+
+.categoryRecipeName {
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.categoryRecipeDescription {
+  grid-column-start: 2;
+  grid-column-end: 3;
+  font-size: 15px;
+  font-style: italic;
+  color: black;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.categoryText {
+  text-align: center;
+  margin: 50px;
+  font-size: 20px;
+  font-family: Futura, Arial, sans-serif;
+}
+
+.categorySubscribe {
+  color: black;
 }
