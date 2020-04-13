@@ -36,6 +36,11 @@
     "recipeID": "3",
     "categoryName": "Soup",
     "name": "Lemony Turkey Rice Soup",
+<<<<<<< HEAD
+    "description": "A declicous soup",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
     "description": "A wonderful, light soup perfect for the post-holiday turkey leftovers. It is so friendly when you need a 'light' meal after the heaviness of the holidays.",
     "ingredients": "2 cups diced cooked turkey, 2 cups cooked long grain rice, 1 can (10-3/4 ounces) condensed cream of chicken soup, 1/4 teaspoon pepper, 6 cups chicken broth, 2 tablespoons cornstarch, 1/4 to 1/3 cup lemon juice, 1/4 to 1/2 cup minced fresh cilantro",
     "details": {
@@ -43,6 +48,7 @@
       "two": "In a small bowl, mix cornstarch and remaining broth until smooth; gradually stir into soup. Bring to a boil; cook and stir until thickened, 1-2 minutes. Remove from heat; stir in lemon juice and cilantro."
     },
     "imageURL": "/images/lemony-turkey-rice-soup.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/1/3",
     "categoryURL": "/category/1",
     "slug": "Saved in your collection successfully!"
@@ -52,6 +58,11 @@
     "recipeID": "4",
     "categoryName": "Soup",
     "name": "Best Ever Potato Soup",
+<<<<<<< HEAD
+    "description": "A declicous soup",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
     "description": "An easy and delicious creamy potato soup recipe that can be made in just one pot! Loaded with bacon and creamy potato goodness, this is a favorite comfort food in household.",
     "ingredients": "6 bacon strips, 3 cups cubed peeled potatoes, 1 small carrot, 1/2 cup chopped onion, 1 tablespoon dried parsley flakes, 1/2 teaspoon salt, 1/2 teaspoon pepper, 1/2 teaspoon celery seed, 1 can (14-1/2 ounces) chicken broth, 3 tablespoons all-purpose flour, 3 cups 2% milk, 8 ounces process cheese (Velveeta), 2 green onions",
     "details": {
@@ -59,6 +70,7 @@
       "two": "Mix flour and milk until smooth; stir into soup. Bring to a boil, stirring constantly; cook and stir until thickened, about 2 minutes. Stir in cheese until melted. If desired, serve with green onions."
     },
     "imageURL": "/images/best-ever-potato-soup.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/1/4",
     "categoryURL": "/category/1",
     "slug": "Saved in your collection successfully!"
@@ -68,6 +80,14 @@
     "recipeID": "5",
     "categoryName": "Soup",
     "name": "Tuscan Cauliflower Soup",
+<<<<<<< HEAD
+    "description": "A declicous soup",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "detailURL": "/category/1/5",
+    "categoryURL": "/category/1",
+    "slug": "Saved in your collection successfully!"
+=======
     "description": "A classic Tuscan soup has lots of potatoes, but it's in the low-carb way with cauliflower. Turns out, it has a heartier flavor.",
     "ingredients": "4 cups fresh cauliflowerets (about 14 ounces), 2 cans (14-1/2 ounces each) reduced-sodium chicken broth, 2 cups water, 2 garlic cloves, minced, 1 pound bulk Italian sausage, 1 cup sliced fresh mushrooms, 1 cup heavy whipping cream, 1/4 teaspoon pepper, 1/2 pound bacon strips",
     "details": {
@@ -254,6 +274,7 @@
     "detailURL": "/category/3/5",
     "categoryURL": "/category/3",
     "slug": "Saved in your collection successfully!"
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
   },
   "Chicken Nuggets": {
     "categoryID": "4",
@@ -277,6 +298,11 @@
     "recipeID": "2",
     "categoryName": "Snack",
     "name": "Bacon Wrapped Scallops",
+<<<<<<< HEAD
+    "description": "A declicous snack",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
     "description": "Bacon Wrapped Scallops are elegant enough for a dinner party or a romantic dinner for two and easy enough to prepare on a busy weeknight.",
     "ingredients": "1 1/2 pound large scallops, 1/2 pound thin-sliced bacon, Extra-virgin olive oil, Sea salt and freshly ground black pepper, 1 cup good quality mayonnaise, 1/4 cup hot chili paste (recommended: Sriracha Hot Chili Paste), 1 lime, 2 tablespoons chopped cilantro, 2 heads Bibb lettuce, 3 avocados",
     "details": {
@@ -285,6 +311,7 @@
       "three": "To serve, carefully peel away the lettuce leaves and line a large platter with the lettuce cups. Top each with a bacon wrapped scallop, 2 slices of avocado, and a spoonful of spicy mayonnaise. Garnish with cilantro leaves."
     },
     "imageURL": "/images/bacon-wrapped-scallops.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/4/2",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -294,6 +321,11 @@
     "recipeID": "3",
     "categoryName": "Snack",
     "name": "French Fries",
+<<<<<<< HEAD
+    "description": "A declicous snack",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
     "description": "Perfectly golden and crisp and deliciously fluffy and tender inside. Just the way the best french fries should be and without the extra fat from deep frying and without a trip to the drive-thru!",
     "ingredients": "12 cups grapeseed or canola oil, 3 large russet potatoes, Kosher salt",
     "details": {
@@ -302,6 +334,7 @@
       "three": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Fry the potatoes again until golden brown, 5 to 6 minutes. Blot with a paper towel. Sprinkle with salt to serve."
     },
     "imageURL": "/images/french-fries.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/4/3",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -311,6 +344,11 @@
     "recipeID": "4",
     "categoryName": "Snack",
     "name": "Buffalo Chicken Wings",
+<<<<<<< HEAD
+    "description": "A declicous snack",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
     "description": "Ultra crispy chicken wings tossed in a classic spicy sauce and served with ranch dressing. They’re perfect for parties, game day, or just when you have a hankering for a hearty snack.",
     "ingredients": "2 lb. chicken wings, 2 tbsp Vegetable oil, 1 tsp garlic powder, Kosher salt,Freshly ground black pepper, 1/4 c hot sauce (such as Frank's), 2 tbsp honey, 4 tbsp butter, Ranch dressing, Carrot sticks, Celery sticks, for serving",
     "details": {
@@ -319,6 +357,7 @@
       "three": "In a small saucepan, whisk together hot sauce and honey. Bring to simmer then stir in butter. Cook until butter is melted and slightly reduced, about 2 minutes. Heat broiler on low. Transfer baked wings to a bowl and toss with buffalo sauce until completely coated. Return wings to rack and broil—watching carefully!—until sauce caramelizes, 3 minutes. Serve with ranch dressing and vegetables."
     },
     "imageURL": "/images/buffalo-chicken-wings.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/4/4",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -328,6 +367,14 @@
     "recipeID": "5",
     "categoryName": "Snack",
     "name": "Coconut Shrimp",
+<<<<<<< HEAD
+    "description": "A declicous snack",
+    "details": "HOW TO COOK IT !!!!!",
+    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "detailURL": "/category/4/5",
+    "categoryURL": "/category/4",
+    "slug": "Saved in your collection successfully!"
+=======
     "description": "These Easy Baked Coconut Shrimp are crisp, golden and delicious served a sweet and spicy apricot dipping sauce.",
     "ingredients": "1 egg, 1/2 cup all-purpose flour, 2/3 cup beer, 1 1/2 teaspoons baking powder, 1/4 cup all-purpose flour, 2 cups flaked coconut, 24 shrimp, 3 cups oil for frying",
     "details": {
@@ -428,5 +475,6 @@
     "detailURL": "/category/5/5",
     "categoryURL": "/category/5",
     "slug": "Saved in your collection successfully!"
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
   }
 }
