@@ -15,12 +15,28 @@ import ErrorPage from "./pages/ErrorPage/ErrorPage.jsx";
 /* css */
 import styles from "./nav.module.css";
 
-/* here is some external content. look at the /CollectionPage route below
-to see how this content is passed down to the components via props */
 const myCollection = {
-  title: "Delicious Soup",
-  category: "Soup",
-  detail: "how to cook the soup",
+  "Lemony Turkey Rice Soup": {
+    name: "Lemony Turkey Rice Soup",
+    description:
+      "A wonderful, light soup perfect for the post-holiday turkey leftovers. It is so friendly when you need a 'light' meal after the heaviness of the holidays.",
+    imageURL: "/images/lemony-turkey-rice-soup.jpg",
+    detailURL: "/category/1/3",
+  },
+  "Summer Asian Slaw": {
+    name: "Summer Asian Slaw",
+    description:
+      "A yummy slaw filled with summer ingredients - fresh herbs & peaches - and tossed in a yummy miso dressing. Perfect for picnics!",
+    imageURL: "/images/summer-asian-slaw.jpg",
+    detailURL: "/category/2/2",
+  },
+  "Chocolate Brownies": {
+    name: "Chocolate Brownies",
+    description:
+      "The Best Brownie Recipe Ever has the perfect chewy fudge squares of chocolate. You’ll never buy a boxed brownie mix again!",
+    imageURL: "/images/chocolate-brownies.jpg",
+    detailURL: "/category/5/2",
+  },
 };
 
 function App() {
@@ -63,7 +79,9 @@ function App() {
         <Route
           path="/collection"
           exact
-          render={() => <CollectionPage content={myCollection} />}
+          render={() => (
+            <CollectionPage content={Object.values(myCollection)} />
+          )}
         />
         <Route path="/about" exact component={AboutPage} />
         <Route path="/contact" exact component={ContactPage} />
