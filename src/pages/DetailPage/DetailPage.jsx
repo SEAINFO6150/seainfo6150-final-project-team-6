@@ -5,14 +5,6 @@ import styles from "./DetailPage.module.css";
 const getRecipeDetail = (recipe, categoryID, recipeID) => {
   if (recipe.categoryID === categoryID && recipe.recipeID === recipeID) {
     return (
-<<<<<<< HEAD
-      <div>
-        <h1>{recipe.name}</h1>
-        <p>{recipe.details}</p>
-          <button onClick={() => alert(recipe.slug)}>(Save in your collection)</button>
-        <img src={recipe.imageURL} alt={recipe.name} />
-        <Link to={recipe.categoryURL}>Back to {recipe.categoryName} Page</Link>
-=======
       <div className={styles.recipeContainer}>
         <img
           className={styles.recipeImg}
@@ -30,7 +22,7 @@ const getRecipeDetail = (recipe, categoryID, recipeID) => {
         <p>
           <button
             className={styles.recipeSaveButton}
-            onClick={() => alert(recipe.slug)}
+            onClick={() => alert("Saved in your collection successfully!")}
           >
             Save in Your Collection
           </button>
@@ -40,7 +32,6 @@ const getRecipeDetail = (recipe, categoryID, recipeID) => {
             &lt; Back to {recipe.categoryName} Page
           </Link>
         </p>
->>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
       </div>
     );
   }

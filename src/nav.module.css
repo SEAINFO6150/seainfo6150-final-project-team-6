@@ -32,10 +32,7 @@ nav {
   margin-left: auto;
   border: 1px solid black;
   border-radius: 10px;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  padding-left: 25px;
-  padding-right: 25px;
+  padding: 5px 25px;
   font-family: Futura, Arial, sans-serif;
   font-size: 20px;
   color: #000;

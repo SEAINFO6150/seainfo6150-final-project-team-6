@@ -1,5 +1,33 @@
-.container {
-    max-width:60rem;
-    min-width:20em;
-    margin: auto;
-  }
+.aboutContainer {
+  max-width: 60rem;
+  min-width: 20em;
+  margin: auto;
+}
+
+.aboutImg {
+  width: 600px;
+  margin-bottom: 30px;
+  border-radius: 10px;
+}
+
+.aboutTitle {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.aboutDetail {
+  margin-bottom: 30px;
+  font-size: 15px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.aboutSubscribe {
+  margin-bottom: 50px;
+  font-size: 15px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.aboutSubscribeButton {
+  color: black;
+}

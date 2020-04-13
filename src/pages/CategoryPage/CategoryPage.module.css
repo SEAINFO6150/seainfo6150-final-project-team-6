@@ -26,6 +26,7 @@
   grid-column-end: 2;
   align-self: center;
   width: 300px;
+  border-radius: 10px;
 }
 
 .categoryRecipe {
