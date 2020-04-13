@@ -1,33 +1,29 @@
-.error {
-    font-size: 18px;
-  }
-  .container {
-    max-width: 60rem;
-    margin: 0px auto 50px auto;
-  }
-  .error h1 {
-    font-size: 18px;
-  }
-  .error h1 {
-    font-size: 30px;
-  }
-  .error p {
-    font-size: 25px;
-  }
-  .error a {
-    color: var(--color-decorated);
-  }
-  .imageContainer {
-    min-height: 320px;
-    margin-left: 0px;
-  }
-  .gap {
-    height: 30px;
-  }
-  .image  {
-    float: left;
-    height: auto;
-    max-width: 200%;
-    margin-right: 30px;
+.errorContainer {
+  max-width: 60em;
+  min-width: 20em;
+  margin: auto;
+  text-align: center;
+}
 
-  }
+.error h1 {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.error h2 {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.error p {
+  margin-bottom: 50px;
+  font-size: 15px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.error img {
+  width: 900px;
+  margin-bottom: 30px;
+}

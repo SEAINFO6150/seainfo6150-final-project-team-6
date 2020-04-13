@@ -34,11 +34,11 @@ const CategoryPage = (props) => {
         getRecipePreview(recipe, props.categoryID)
       )}
       <p className={styles.categoryText}>
-        More Recipes in the Future!{" "}
+        More Recipes in the Future!&nbsp;
         <Link className={styles.categorySubscribe} to="/subscribe">
           Subscribe
-        </Link>{" "}
-        our Website to see the Updates!
+        </Link>
+        &nbsp;our Website to see the Updates!
       </p>
     </div>
   );
