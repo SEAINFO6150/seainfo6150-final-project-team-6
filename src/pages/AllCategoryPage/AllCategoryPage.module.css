@@ -1,0 +1,112 @@
+.soupCategory {
+    margin-left: auto;
+}
+
+.soupCategoryButton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #a8e063;
+    font-size: 25px;
+    position: relative;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid green;
+}
+
+.appetizerCategory {
+    margin-left: auto;
+}
+
+.appetizerCategoryButton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #fa7934;
+    font-size: 25px;
+    position: relative;
+    left: 250px;
+    top: -20px;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid red;
+}
+
+.mainCourseCategory {
+    margin-left: auto;
+}
+
+.mainCourseCategoryButton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #919ef2;
+    font-size: 25px;
+    position: relative;
+    left: 550px;
+    top: -400px;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid blue;
+}
+
+.snackCategory {
+    margin-left: auto;
+}
+
+.snackCategoryButton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #c988f2;
+    font-size: 25px;
+    position: relative;
+    left: 1000px;
+    top: -770px;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid purple;
+}
+
+.dessertCategory {
+    margin-left: auto;
+}
+
+.dessertCategoryButton {
+    display: flex;
+    align-items: center;
+    color: black;
+    background: #eff57d;
+    font-size: 25px;
+    position: relative;
+    left: 850px;
+    top: -800px;
+    text-align: center;
+    padding: 32px 50px;
+    border-bottom: 2px solid grey;
+    margin-bottom: 50px;
+    border-radius: 50%;
+    height: 200px;
+    width: 200px;
+    border: 2px solid yellow;
+}
