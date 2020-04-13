@@ -1,6 +1,23 @@
-.homePageDetail {
-    margin-bottom: 30px;
-    font-size: 20px;
-    font-weight: bold;
-    font-family: Verdana, Helvetica, sans-serif;
-  }
+.homeContainer {
+  max-width: 60em;
+  min-width: 20em;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 50px;
+}
+
+.homeImg {
+  width: 100%;
+  margin-bottom: 30px;
+}
+
+.homeTitle {
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.homeText {
+  font-size: 20px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
