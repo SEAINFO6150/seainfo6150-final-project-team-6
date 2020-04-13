@@ -1,0 +1,78 @@
+.container {
+    max-width: 35rem;
+    min-width: 20em;
+    margin: auto;
+    font-family: Tahoma, Geneva, sans-serif;
+
+    text-decoration: none;
+    display: grid;
+    margin-top: 50px;
+    border: 2px solid grey;
+    border-radius: 50px;
+    padding: 60px;
+}
+
+
+input[type="name"],
+input[type="email"],
+input[type="tel"]{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    resize: vertical
+}
+
+input[type="type"],
+input[type="language"]{
+    width: 100%;
+    padding: 15px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    resize: vertical
+}
+input[type="radio"]{
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+
+    border-radius: 50%;
+    width: 16px;
+    height: 16px;
+
+    border: 1px solid #999;
+    margin-right: 2px;
+
+    position: relative;
+    top: 4px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+input:checked {
+    border: 6px solid;
+}
+
+select{
+    font-size: .9rem;
+
+}
+
+input[type="submit"]{
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin-top: 30px;
+
+    border-radius: 10px;
+    border: 1px solid black;
+    padding: 5px 25px;
+    font-size: 15px;
+    font-family: Futura, Arial, sans-serif;
+}
