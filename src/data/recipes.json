@@ -3,9 +3,13 @@
     "categoryID": "1",
     "recipeID": "1",
     "categoryName": "Soup",
-    "name": "Cream of mushroom soup",
-    "description": "A declicous soup",
-    "details": "HOW TO COOK IT !!!!!",
+    "name": "Cream of Mushroom Soup",
+    "description": "A simple type of soup where a basic roux is thinned with cream or milk and then mushrooms and/or mushroom broth are added.",
+    "ingredients": "2 tablespoons butter, 1/2 pound sliced fresh mushrooms, 1/4 cup chopped onion, 6 tablespoons all-purpose flour, 1/2 teaspoon salt, 1/8 teaspoon pepper, 2 cans (14-1/2 ounces each) chicken broth, 1 cup half-and-half cream",
+    "details": {
+      "one": "In a large saucepan, heat butter over medium-high heat; saute mushrooms and onion until tender.",
+      "two": "Mix flour, salt, pepper and 1 can broth until smooth; stir into mushroom mixture. Stir in remaining broth. Bring to a boil; cook and stir until thickened, about 2 minutes. Reduce heat; stir in cream. Simmer, uncovered, until flavors are blended, about 15 minutes, stirring occasionally."
+    },
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
     "detailURL": "/category/1/1",
     "categoryURL": "/category/1",
@@ -16,9 +20,13 @@
     "recipeID": "2",
     "categoryName": "Soup",
     "name": "Mexican Chicken Corn Chowder",
-    "description": "A declicous soup",
-    "details": "HOW TO COOK IT !!!!!",
-    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "description": "A creamy, cheesy, veggie and chicken filled soup that's layered with Mexican flavors.",
+    "ingredients": "1-1/2 pounds boneless skinless chicken breasts, 1/2 cup chopped onion, 3 tablespoons butter, 1 to 2 garlic cloves, 1 cup hot water, 2 teaspoons chicken bouillon granules, 1/2 to 1 teaspoon ground cumin, 2 cups half-and-half cream, 2 cups shredded Monterey Jack cheese, 1 can (14-3/4 ounces) cream-style corn, 1 can (4 ounces) chopped green chiles, 1/4 to 1 teaspoon hot pepper sauce, 1 medium tomato",
+    "details": {
+      "one": "In a Dutch oven, brown chicken and onion in butter until chicken is no longer pink. Add garlic; cook 1 minute longer. Add the water, bouillon and cumin; bring to a boil. Reduce heat; cover and simmer for 5 minutes.",
+      "two": "Stir in the cream, cheese, corn, chiles and hot pepper sauce. Cook and stir over low heat until cheese is melted; add tomato. If desired, top with cilantro and tortilla strips."
+    },
+    "imageURL": "/images/mexican-chicken-corn-chowder.jpg",
     "detailURL": "/category/1/2",
     "categoryURL": "/category/1",
     "slug": "Saved in your collection successfully!"
@@ -28,9 +36,19 @@
     "recipeID": "3",
     "categoryName": "Soup",
     "name": "Lemony Turkey Rice Soup",
+<<<<<<< HEAD
     "description": "A declicous soup",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
+    "description": "A wonderful, light soup perfect for the post-holiday turkey leftovers. It is so friendly when you need a 'light' meal after the heaviness of the holidays.",
+    "ingredients": "2 cups diced cooked turkey, 2 cups cooked long grain rice, 1 can (10-3/4 ounces) condensed cream of chicken soup, 1/4 teaspoon pepper, 6 cups chicken broth, 2 tablespoons cornstarch, 1/4 to 1/3 cup lemon juice, 1/4 to 1/2 cup minced fresh cilantro",
+    "details": {
+      "one": "In a large saucepan, combine first 4 ingredients and 5-1/2 cups broth. Bring to a boil; cook 3 minutes.",
+      "two": "In a small bowl, mix cornstarch and remaining broth until smooth; gradually stir into soup. Bring to a boil; cook and stir until thickened, 1-2 minutes. Remove from heat; stir in lemon juice and cilantro."
+    },
+    "imageURL": "/images/lemony-turkey-rice-soup.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/1/3",
     "categoryURL": "/category/1",
     "slug": "Saved in your collection successfully!"
@@ -40,9 +58,19 @@
     "recipeID": "4",
     "categoryName": "Soup",
     "name": "Best Ever Potato Soup",
+<<<<<<< HEAD
     "description": "A declicous soup",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
+    "description": "An easy and delicious creamy potato soup recipe that can be made in just one pot! Loaded with bacon and creamy potato goodness, this is a favorite comfort food in household.",
+    "ingredients": "6 bacon strips, 3 cups cubed peeled potatoes, 1 small carrot, 1/2 cup chopped onion, 1 tablespoon dried parsley flakes, 1/2 teaspoon salt, 1/2 teaspoon pepper, 1/2 teaspoon celery seed, 1 can (14-1/2 ounces) chicken broth, 3 tablespoons all-purpose flour, 3 cups 2% milk, 8 ounces process cheese (Velveeta), 2 green onions",
+    "details": {
+      "one": "In a large saucepan, cook bacon over medium heat until crisp, stirring occasionally; drain drippings. Add vegetables, seasonings and broth; bring to a boil. Reduce heat; simmer, covered, until potatoes are tender, 10-15 minutes.",
+      "two": "Mix flour and milk until smooth; stir into soup. Bring to a boil, stirring constantly; cook and stir until thickened, about 2 minutes. Stir in cheese until melted. If desired, serve with green onions."
+    },
+    "imageURL": "/images/best-ever-potato-soup.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/1/4",
     "categoryURL": "/category/1",
     "slug": "Saved in your collection successfully!"
@@ -52,21 +80,215 @@
     "recipeID": "5",
     "categoryName": "Soup",
     "name": "Tuscan Cauliflower Soup",
+<<<<<<< HEAD
     "description": "A declicous soup",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
     "detailURL": "/category/1/5",
     "categoryURL": "/category/1",
     "slug": "Saved in your collection successfully!"
+=======
+    "description": "A classic Tuscan soup has lots of potatoes, but it's in the low-carb way with cauliflower. Turns out, it has a heartier flavor.",
+    "ingredients": "4 cups fresh cauliflowerets (about 14 ounces), 2 cans (14-1/2 ounces each) reduced-sodium chicken broth, 2 cups water, 2 garlic cloves, minced, 1 pound bulk Italian sausage, 1 cup sliced fresh mushrooms, 1 cup heavy whipping cream, 1/4 teaspoon pepper, 1/2 pound bacon strips",
+    "details": {
+      "one": "In a large saucepan, combine cauliflower, broth, water and garlic; bring to a boil. Simmer, uncovered, until cauliflower is tender, 12-15 minutes.",
+      "two": "Meanwhile, in a large skillet, cook sausage and mushrooms over medium heat until sausage is no longer pink, breaking up sausage into crumbles, 6-8 minutes. Remove with a slotted spoon; drain on paper towels.",
+      "three": "Add sausage and mushrooms to cauliflower mixture; return to a boil. Reduce heat; simmer, uncovered, 5 minutes. Stir in cream and pepper; heat through. Serve with bacon."
+    },
+    "imageURL": "/images/tuscan-cauliflower-soup.jpg",
+    "detailURL": "/category/1/5",
+    "categoryURL": "/category/1",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Curried Peanut Dip": {
+    "categoryID": "2",
+    "recipeID": "1",
+    "categoryName": "Appetizer",
+    "name": "Curried Peanut Dip",
+    "description": "A creamy, spicy-sweet dip. It can be paired with leftover roast or rotisserie chicken, jammy eggs, cucumber spears, and roasted sweet potatoes for the perfect desk-friendly lunch.",
+    "ingredients": "1 Tbsp vegetable oil, 1/4 cup jarred red curry paste, 1 14.5-oz. can coconut milk, 1/2 cup creamy peanut butter, 3 Tbsp unseasoned rice vinegar, 1 Tbsp fish sauce, 1 Tbsp honey, Kosher salt",
+    "details": {
+      "one": "Heat oil in a medium saucepan over medium. Add curry paste and cook, stirring frequently, until paste begins to stick to bottom of saucepan and is very fragrant, 2–3 minutes.",
+      "two": "Whisk in coconut milk and bring to a simmer. Continue to cook, whisking occasionally, until mixture turns darker in color and is slightly reduced, about 3 minutes. Remove saucepan from heat and whisk in peanut butter, vinegar, fish sauce, and honey. Season to taste with salt; it should be well seasoned since the things you are dipping in it may not be (i.e., boiled eggs, cukes, etc.). Let cool to room temperature, then transfer to an airtight portable container and chill."
+    },
+    "imageURL": "/images/curried-peanut-dip.jpg",
+    "detailURL": "/category/2/1",
+    "categoryURL": "/category/2",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Summer Asian Slaw": {
+    "categoryID": "2",
+    "recipeID": "2",
+    "categoryName": "Appetizer",
+    "name": "Summer Asian Slaw",
+    "description": "A yummy slaw filled with summer ingredients - fresh herbs & peaches - and tossed in a yummy miso dressing. Perfect for picnics!",
+    "ingredients": "1/4 cup cashew or peanut butter, 2 tablespoons white miso paste, 2 tablespoons lime juice, 1 teaspoon sesame oil, 1 teaspoon grated ginger, 2 to 5 tablespoons water, 6 to 7 cups shredded red and/or green cabbage, mix of peppers, 2 scallions, 1/2 cup chopped cilantro, 1/2 cup fresh basil and/or mint, 2 Thai chiles or 1 serrano pepper, Sea salt, 1/4 cup toasted peanuts and/or sesame seeds, 1 ripe peach",
+    "details": {
+      "one": "Make the dressing: In a small bowl, whisk together the cashew butter, miso paste, lime juice, sesame oil, and ginger. Whisk in enough water to create a drizzable consistency. Set aside.",
+      "two": "In a dry cast-iron skillet over medium heat, char the peppers whole, rotating until the edges have a little char, about 2 minutes per side. Remove. When cool to the touch, slice in half lengthwise, remove the stem, ribbing, and seeds and slice horizontally into thin strips.",
+      "three": "In a large bowl, combine the cabbage, peppers, scallions, cilantro, basil, chiles, and ¾ of the dressing. Toss until combined. Add the remaining dressing, if desired, and season to taste with a few pinches of sea salt. Serve topped with the toasted nuts, seeds, and sliced peaches."
+    },
+    "imageURL": "/images/summer-asian-slaw.jpg",
+    "detailURL": "/category/2/2",
+    "categoryURL": "/category/2",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Creamy Potato Salad": {
+    "categoryID": "2",
+    "recipeID": "3",
+    "categoryName": "Appetizer",
+    "name": "Creamy Potato Salad",
+    "description": "It pairs perfectly with any grill, barbeque or potluck entrée, making this go-to side dish for any warm weather get-together.",
+    "ingredients": "1 1/2 pounds round red or white potatoes (about 6 medium), 1 1/2 cups mayonnaise or salad dressing, 1 tablespoon white or cider vinegar, 1 tablespoon yellow mustard, 1 teaspoon salt, 1/4 teaspoon pepper, 2 medium stalks celery, 1 medium onion, 4 hard-cooked eggs, Paprika",
+    "details": {
+      "one": "Place potatoes in 3-quart saucepan; add enough water to cover potatoes. Cover and heat to boiling; reduce heat to low. Cook covered 25 to 30 minutes or until potatoes are tender; drain. Let stand until cool enough to handle. Cut potatoes into cubes.",
+      "two": "Mix mayonnaise, vinegar, mustard, salt and pepper in large glass or plastic bowl.",
+      "three": "Add potatoes, celery and onion; toss. Stir in eggs. Sprinkle with paprika. Cover and refrigerate at least 4 hours to blend flavors and chill. Store covered in refrigerator."
+    },
+    "imageURL": "/images/creamy-potato-salad.jpg",
+    "detailURL": "/category/2/3",
+    "categoryURL": "/category/2",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Stuffed Mushrooms": {
+    "categoryID": "2",
+    "recipeID": "4",
+    "categoryName": "Appetizer",
+    "name": "Stuffed Mushrooms",
+    "description": "This easy and elegant appetizer will be devoured at any party. Tender mushroom caps are filled with crispy panko, fresh herbs, and a double dose of cheese for the perfect pre-dinner bite.",
+    "ingredients": "24 (2-inch wide) cremini or white button mushrooms (about 1 pound), 3 tablespoons olive oil, 3/4 teaspoon kosher salt, 1/2 teaspoon freshly ground black pepper, 2 small stalks celery, 1 small shallot, 1/4 cup chopped fresh parsley leaves, 2 ounces whole-milk low-moisture mozzarella cheese, 1 ounce Parmesan cheese, 1/4 teaspoon garlic powder, Pinch red pepper flakes (optional), 1/4 cup dry white wine or low-sodium vegetable broth, 1 cup panko breadcrumbs, 1 large egg",
+    "details": {
+      "one": "Preheat oven to 400°. Grease a baking sheet with cooking spray. Remove stems from mushrooms and roughly chop stems. Place mushroom caps on baking sheet.",
+      "two": "In a medium skillet over medium heat, melt butter. Add chopped mushrooms stems and cook until most of the moisture is out, 5 minutes. Add garlic and cook until fragrant, 1 minute then add breadcrumbs and let toast slightly, 3 minutes. Season with salt and pepper. Remove from heat and let cool slightly.",
+      "three": "In a large bowl mix together mushroom stem mixture, Parmesan, cream cheese, parsley, and thyme. Season with salt and pepper.  Fill mushroom caps with filling and sprinkle with more Parmesan.",
+      "four": "Bake until mushrooms are soft and the tops are golden, 20 minutes."
+    },
+    "imageURL": "/images/stuffed-mushrooms.jpg",
+    "detailURL": "/category/2/4",
+    "categoryURL": "/category/2",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Bacon Cheddar Deviled Eggs": {
+    "categoryID": "2",
+    "recipeID": "5",
+    "categoryName": "Appetizer",
+    "name": "Bacon Cheddar Deviled Eggs",
+    "description": "A go-to party snack. Three of delicious foods—bacon, eggs and cheese—come together in these deviled eggs.",
+    "ingredients": "12 hard-boiled large eggs, 1/2 cup mayonnaise, 4 bacon strips, 2 tablespoons finely shredded cheddar cheese, 1 tablespoon honey mustard, 1/4 teaspoon pepper",
+    "details": {
+      "one": "Place eggs in a saucepan, and cover with cold water. Bring water to a boil and immediately remove from heat. Cover, and let eggs stand in hot water for 10 to 12 minutes. Remove from hot water, and cool. To cool more quickly, rinse eggs under cold running water.",
+      "two": "Meanwhile, place bacon in a large, deep skillet. Cook over medium-high heat until evenly brown. Alternatively, wrap bacon in paper towels and cook in the microwave for about 1 minute per slice. Crumble and set aside.",
+      "three": "Peel the hard-cooked eggs, and cut in half lengthwise. Remove yolks to a small bowl. Mash egg yolks with mayonnaise, crumbled bacon and cheese. Stir in mustard. Fill egg white halves with the yolk mixture and refrigerate until serving."
+    },
+    "imageURL": "/images/bacon-cheddar-deviled-eggs.jpg",
+    "detailURL": "/category/2/5",
+    "categoryURL": "/category/2",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Pork Chops with Fig and Grape Agrodolce": {
+    "categoryID": "3",
+    "recipeID": "1",
+    "categoryName": "Main Course",
+    "name": "Pork Chops with Fig and Grape Agrodolce",
+    "description": "Fresh figs and grapes cooked in balsamic vinegar and honey make an addictively sweet and sour sauce for pork chops in this seasonal fall dinner.",
+    "ingredients": "4 bone-in pork chops, 1 1/2 teaspoons kosher salt, 1 1/4 teaspoon freshly ground black pepper, 4 tablespoons extra-virgin olive oil, 3/4 cup balsamic vinegar, 1/2 teaspoon crushed red pepper flakes (optional), 2 tablespoons plus 1 teaspoon honey, 2 cups seedless red grapes, 8 ounces fresh black Mission figs, 3 sprigs rosemary, 1/4 cup (1/2 stick) cold unsalted butter, 1 tablespoon fresh lemon juice, 1/2 teaspoon Dijon mustard, 1 small head of radicchio (about 10 ounces), 1 cup (loosely packed) parsley leaves",
+    "details": {
+      "one": "Preheat oven to 400°F. Season pork chops on both sides with 1 1/4 tsp. salt and 1 tsp. pepper.",
+      "two": "Heat 1 Tbsp. oil in a large skillet over high. Working in batches if needed, sear pork chops until browned, about 2 minutes per side. Transfer chops to a wire rack set inside a rimmed baking sheet; reserve pan drippings in skillet. Roast pork until an instant-read thermometer inserted into the center registers 135°F, about 15 minutes. Let pork rest 5 minutes.",
+      "three": "Meanwhile, heat skillet with drippings over medium-high. Add vinegar and cook, scraping up drippings with a wooden spoon. Stir in red pepper flakes, if using, 2 Tbsp. honey, and 1/4 tsp. salt. Add grapes, figs, and rosemary and stir to coat. Continue to cook, stirring occasionally, until sauce is thickened and fruit is softened, about 8 minutes. Remove from heat and stir in butter.",
+      "four": "Whisk lemon juice, mustard, and remaining 3 Tbsp. oil, 1 tsp. honey, 1/2 tsp. salt, and 1/4 tsp. pepper in a large bowl. Add radicchio and parsley and toss to coat. Divide radicchio salad and pork chops among plates. Top with agrodolce."
+    },
+    "imageURL": "/images/pork-chops-with-fig-and-grape-agrodolce.jpg",
+    "detailURL": "/category/3/1",
+    "categoryURL": "/category/3",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Charred Chicken with Sweet Potatoes": {
+    "categoryID": "3",
+    "recipeID": "2",
+    "categoryName": "Main Course",
+    "name": "Charred Chicken with Sweet Potatoes",
+    "description": "How great is this? Delicious. Colorful. Nutritious. All presented beautifully on a single platter.",
+    "ingredients": "4 skin-on and bone-in chicken thighs, Kosher salt, 4 garlic cloves, 3 tablespoons fresh lemon juice, 5 tablespoons olive oil, 1 large or 2 medium sweet potatoes, 3 large sprigs rosemary, 1 blood orange, 1 15-ounce can chickpeas, 1/2 cup Castelvetrano olives, 3 ounces feta",
+    "details": {
+      "one": "Preheat oven to 450°. Place chicken in a large bowl and season with salt. Add garlic, 2 Tbsp. lemon juice, and 2 Tbsp. oil and toss to combine. Let sit at room temperature at least 30 minutes or cover and chill up to 12 hours. Remove chicken from marinade, draining off any excess; discard marinade. Set chicken aside.",
+      "two": "Prick sweet potato all over with a fork and roast on a small foil-lined rimmed baking sheet until tender, about 1 hour. Let sit until cool enough to handle. Once potato comes out of the oven, start cooking the chicken. Heat 1 Tbsp. oil in a large skillet, preferably cast iron, over medium-high. Cook chicken, skin side down, until skin is very brown (it should get very dark; as long as you don’t smell it outright burning it will be all the better with some char), about 5 minutes. Transfer to oven and roast, keeping skin side down, until cooked through, 18–22 minutes. About 1 minute before removing chicken from oven, toss rosemary sprigs into skillet.",
+      "three": "Place chicken, skin side up, on a plate along with rosemary sprigs. Set skillet over medium-high. Cook orange slices just until golden and slightly softened, about 30 seconds per side. Transfer to plate with chicken. Toss chickpeas, olives, and feta with remaining 2 Tbsp. oil and remaining 1 Tbsp. lemon juice in a large bowl; season chickpea salad with salt.",
+      "four": "Tear open sweet potato and arrange big sections of flesh on a large platter. Place chicken, along with any accumulated juices, around sweet potato, then top with orange slices, chickpea salad, and rosemary leaves. Squeeze orange wedges over everything when at the table."
+    },
+    "imageURL": "/images/charred-chicken-with-sweet-potatoes.jpg",
+    "detailURL": "/category/3/2",
+    "categoryURL": "/category/3",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Chile-Marinated Pork with Vietnamese Brussels Sprouts": {
+    "categoryID": "3",
+    "recipeID": "3",
+    "categoryName": "Main Course",
+    "name": "Chile-Marinated Pork with Vietnamese Brussels Sprouts",
+    "description": "The chile paste gives the pork a great kick, while the salty, pungent fish sauce brings out the umami in the Brussels sprouts.",
+    "ingredients": "5 1/2 tablespoons vegetable oil, 2 tablespoons rice wine vinegar, 1 1/2 tablespoons soy sauce, 3 garlic cloves, 2 teaspoons finely grated ginger, 1 1/2 tablespoon hot chile paste, 3/4 teaspoon kosher salt, 2 pork tenderloins (each about 1 pound), 2 tablespoons fish sauce, 2 tablespoons lime juice, 1/2 teaspoon honey, 1/2 to 1 red Thai chile pepper, 1 1/2 tablespoons finely chopped roasted unsalted peanuts, 1 1/2 pounds Brussels sprouts, 3/4 cup low-sodium chicken broth or water, 1 tablespoon butter, 1 tablespoon roughly chopped mint",
+    "details": {
+      "one": "Preheat oven to 400°F. In a medium bowl, whisk together 2 tablespoons oil, vinegar, soy sauce, 2 grated garlic cloves, ginger, chile paste, and 1/4 teaspoon salt. Place pork in a large resealable plastic bag and pour marinade over, tossing to coat. Marinate for 30 minutes at room temperature.",
+      "two": "In a small bowl, whisk together remaining 1 grated garlic clove, fish sauce, lime, honey, chile pepper, peanuts, and 1 tablespoon water. Set aside. On a rimmed baking sheet, toss Brussels sprouts with 1 1/2 tablespoons oil and 1/2 teaspoon salt. Roast 15 minutes, then toss. Continue to roast until browned and cooked through, 10 to 15 minutes more. Transfer to a large bowl and toss with 2 tablespoons of the vinaigrette. Taste and add more vinaigrette, if desired.",
+      "three": "Meanwhile, heat a large skillet with 2 tablespoons oil over medium-high heat. Remove pork from marinade (reserve marinade) and sear on 3 sides until lightly browned, about 3 minutes per side. Turn tenderloins onto their fourth side and add broth to pan. Transfer skillet to oven and roast pork, basting occasionally, until internal temperature reaches 140°F for medium rare or 145°F for medium, 10 to 13 minutes more (temperature will rise by about 10 degrees after cooking). Transfer pork to cutting board and let rest 5 minutes, and reserve skillet.",
+      "four": "Add reserved marinade to the skillet and reduce over medium heat, stirring and scraping up the browned bits, until thickened to a pan sauce that coats the back of a spoon, 3 to 5 minutes. Remove from heat and whisk in butter. Taste and adjust seasoning. To serve, slice pork and drizzle with pan sauce. Spoon Brussels sprouts onto plate, sprinkle with mint, and serve additional pan sauce on side."
+    },
+    "imageURL": "/images/chile-marinated-pork-with-vietnamese-brussels-sprouts.jpg",
+    "detailURL": "/category/3/3",
+    "categoryURL": "/category/3",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Slow-Roasted Salmon in Parchment Paper": {
+    "categoryID": "3",
+    "recipeID": "4",
+    "categoryName": "Main Course",
+    "name": "Slow-Roasted Salmon in Parchment Paper",
+    "description": "Here’s the one-sheet on cooking in parchment packets: The method creates moist, even heat, which is ideal for fish. It’s hands-off, and the parcels can be assembled ahead of time.",
+    "ingredients": "2 tablespoons extra-virgin olive oil, 1 onion, 1 bay leaf, Kosher salt, 1 cup Castelvetrano olives, 1/4 cup drained capers, 1/4 cup raisins, 6 tablespoons dark rum, 2 tablespoons fresh lime juice, 4 (6-ounce) salmon fillets, Freshly ground black pepper, 4 tablespoons coarsely chopped cilantro, Lime wedges (for serving)",
+    "details": {
+      "one": "Preheat oven to 275°F. Heat 2 Tbsp. oil in a large skillet over medium-low. Add onion, bay leaf, and a pinch of salt and cook, stirring often and reducing heat if onion is browning too fast, until onion is golden brown, 25–30 minutes.",
+      "two": "Add olives, capers, raisins, and 2 Tbsp. water to skillet and cook, stirring occasionally, until olives are softened, about 4 minutes. Add rum and cook until liquid is evaporated, about 5 minutes. Remove skillet from heat and stir in lime juice and 1 Tbsp. water. If needed, add a splash or two more of water so mixture is saucy; season with salt.",
+      "three": "Season salmon with salt and pepper. Cut four large sheets of parchment paper. Working with 1 sheet, spoon one-quarter of sauce onto the center of paper; scatter 1 Tbsp. cilantro over. Create a well in the sauce the size of a salmon fillet and place fish in well; drizzle with oil. Gather edges of parchment up and over salmon and tie tightly closed with kitchen twine. Set on a rimmed baking sheet. Repeat with remaining parchment paper, sauce, salmon, and 3 Tbsp. cilantro.",
+      "four": "Bake packets until salmon is cooked through, 20–22 minutes for medium (go 2 minutes longer for well-done). Remove from oven and let salmon steam in packets 2 minutes. Unwrap and top with more cilantro. Serve with lime wedges for squeezing over."
+    },
+    "imageURL": "/images/slow-roasted-salmon-in-parchment-paper.jpg",
+    "detailURL": "/category/3/4",
+    "categoryURL": "/category/3",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Slow-Grilled Leg of Lamb with Mint Yogurt": {
+    "categoryID": "3",
+    "recipeID": "5",
+    "categoryName": "Main Course",
+    "name": "Slow-Grilled Leg of Lamb with Mint Yogurt",
+    "description": "The lamb is flavorful and the sauces are delicious. Grilling really gives the lamb a little extra flare.",
+    "ingredients": "1 yellow onion (6 oz.), 7 cloves garlic, 2 tablespoons roughly chopped rosemary, 1/2 cup lemon juice, 2 1/2 teaspoons salt, 2/3 cup olive oil, 1 leg of lamb (4 to 5 lbs.), 1 red onion (6 oz.), 2 bunches radishes, Yogurt-Mint Sauce",
+    "details": {
+      "one": "In a blender, whirl yellow onion, garlic, rosemary, lemon juice, and salt. With blender running, slowly pour in olive oil.",
+      "two": "Rinse lamb and pat dry. With a small knife, make small slashes (1 in. long, 1 in. deep) all over the lamb, and put it in a nonreactive dish. Coat lamb with onion marinade, making sure the mixture gets into the slits. Cover and chill 2 hours or up to overnight, turning occasionally.",
+      "three": "Remove lamb from refrigerator about 1 hour before you plan to cook it. Spread lamb flat on an oiled barbecue grill over a solid bed of medium-hot coals or medium heat on a gas grill (you can hold your hand 1 to 2 in. above grill level only 4 to 5 seconds). Close lid. Cook lamb, turning once and brushing with marinade, until a thermometer inserted in center of thickest part registers 140°, about 40 minutes.",
+      "four": "Transfer meat to a platter and cover. Let rest 15 to 20 minutes. Thinly slice meat, garnish with sliced red onion and radishes, and serve with yogurt-mint sauce."
+    },
+    "imageURL": "/images/slow-grilled-leg-of-lamb-with-mint-yogurt.jpg",
+    "detailURL": "/category/3/5",
+    "categoryURL": "/category/3",
+    "slug": "Saved in your collection successfully!"
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
   },
   "Chicken Nuggets": {
     "categoryID": "4",
     "recipeID": "1",
     "categoryName": "Snack",
     "name": "Chicken Nuggets",
-    "description": "A declicous snack",
-    "details": "HOW TO COOK IT !!!!!",
-    "imageURL": "/images/cream-of-mushoom-soup.jpg",
+    "description": "A real kid-pleaser! Adults will enjoy this recipe for a tasty snack, too! Serve warm with your favorite dipping sauces if desired.",
+    "ingredients": "1/2 cup all-purpose flour, 1 teaspoon granulated garlic, Kosher salt and ground black pepper, 2 boneless skinless chicken breasts (cut into 1 1/2-inch pieces), 1 cup prepared breadcrumbs, 1 large egg, 1 cup vegetable oil",
+    "details": {
+      "one": "Place the flour in a resealable plastic bag and season with the garlic, 1 teaspoon salt and 1/4 teaspoon pepper. Place the chicken pieces in the bag with the flour and toss to coat (work in batches). Transfer the breadcrumbs to a rimmed plate, season with salt and pepper and set aside.",
+      "two": "Whisk the egg and 1 tablespoon water in a medium bowl. Remove a piece of chicken from the flour, dip in the egg mixture, then the breadcrumbs, gently pressing the crumbs into the chicken, and set on a clean plate. Repeat with the remaining pieces of chicken.",
+      "three": "Heat the vegetable oil in a large frying pan over medium-high heat. Add the chicken pieces to the pan (work in batches if needed) and brown on each side, about 8 minutes total. Use a spatula to transfer the chicken nuggets to a paper-towel-lined plate. Salt while hot and serve."
+    },
+    "imageURL": "/images/chicken-nuggets.jpg",
     "detailURL": "/category/4/1",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -76,9 +298,20 @@
     "recipeID": "2",
     "categoryName": "Snack",
     "name": "Bacon Wrapped Scallops",
+<<<<<<< HEAD
     "description": "A declicous snack",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
+    "description": "Bacon Wrapped Scallops are elegant enough for a dinner party or a romantic dinner for two and easy enough to prepare on a busy weeknight.",
+    "ingredients": "1 1/2 pound large scallops, 1/2 pound thin-sliced bacon, Extra-virgin olive oil, Sea salt and freshly ground black pepper, 1 cup good quality mayonnaise, 1/4 cup hot chili paste (recommended: Sriracha Hot Chili Paste), 1 lime, 2 tablespoons chopped cilantro, 2 heads Bibb lettuce, 3 avocados",
+    "details": {
+      "one": "Heat the broiler. Wrap each scallop in a piece of bacon and secure it with a toothpick. Place the bacon wrapped scallops onto a baking sheet, drizzle them with olive oil, and season them with salt and pepper. Cook them under the broiler for about 10 to 15 minutes until the bacon is cooked through, turning once.",
+      "two": "Make the spicy mayo by combining the mayonnaise, chili paste, lime juice, and chopped cilantro. Stir well and refrigerate until ready to use. ",
+      "three": "To serve, carefully peel away the lettuce leaves and line a large platter with the lettuce cups. Top each with a bacon wrapped scallop, 2 slices of avocado, and a spoonful of spicy mayonnaise. Garnish with cilantro leaves."
+    },
+    "imageURL": "/images/bacon-wrapped-scallops.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/4/2",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -88,9 +321,20 @@
     "recipeID": "3",
     "categoryName": "Snack",
     "name": "French Fries",
+<<<<<<< HEAD
     "description": "A declicous snack",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
+    "description": "Perfectly golden and crisp and deliciously fluffy and tender inside. Just the way the best french fries should be and without the extra fat from deep frying and without a trip to the drive-thru!",
+    "ingredients": "12 cups grapeseed or canola oil, 3 large russet potatoes, Kosher salt",
+    "details": {
+      "one": "Soak potatoes in a large bowl of water for about 30 minutes. Pat dry thoroughly with paper towels.",
+      "two": "Heat oil in a deep-fryer or large saucepan to 275 degrees F (135 degrees C). Gently add the potatoes in the hot oil for about 5 minutes, stirring and flipping the potatoes occasionally. Remove potatoes from oil with a slotted spoon to drain on paper towel and to cool completely.",
+      "three": "Heat oil in a deep-fryer or large saucepan to 350 degrees F (175 degrees C). Fry the potatoes again until golden brown, 5 to 6 minutes. Blot with a paper towel. Sprinkle with salt to serve."
+    },
+    "imageURL": "/images/french-fries.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/4/3",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -100,9 +344,20 @@
     "recipeID": "4",
     "categoryName": "Snack",
     "name": "Buffalo Chicken Wings",
+<<<<<<< HEAD
     "description": "A declicous snack",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
+=======
+    "description": "Ultra crispy chicken wings tossed in a classic spicy sauce and served with ranch dressing. They’re perfect for parties, game day, or just when you have a hankering for a hearty snack.",
+    "ingredients": "2 lb. chicken wings, 2 tbsp Vegetable oil, 1 tsp garlic powder, Kosher salt,Freshly ground black pepper, 1/4 c hot sauce (such as Frank's), 2 tbsp honey, 4 tbsp butter, Ranch dressing, Carrot sticks, Celery sticks, for serving",
+    "details": {
+      "one": "Preheat oven to 400° and place a wire rack over a baking sheet. In a large bowl, toss chicken wings with oil and season with garlic powder, salt, and pepper. Transfer to prepared baking sheet.",
+      "two": "Bake until chicken is golden and skin is crispy, 50 to 60 minutes, flipping the wings halfway through.",
+      "three": "In a small saucepan, whisk together hot sauce and honey. Bring to simmer then stir in butter. Cook until butter is melted and slightly reduced, about 2 minutes. Heat broiler on low. Transfer baked wings to a bowl and toss with buffalo sauce until completely coated. Return wings to rack and broil—watching carefully!—until sauce caramelizes, 3 minutes. Serve with ranch dressing and vegetables."
+    },
+    "imageURL": "/images/buffalo-chicken-wings.jpg",
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
     "detailURL": "/category/4/4",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
@@ -112,11 +367,114 @@
     "recipeID": "5",
     "categoryName": "Snack",
     "name": "Coconut Shrimp",
+<<<<<<< HEAD
     "description": "A declicous snack",
     "details": "HOW TO COOK IT !!!!!",
     "imageURL": "/images/cream-of-mushoom-soup.jpg",
     "detailURL": "/category/4/5",
     "categoryURL": "/category/4",
     "slug": "Saved in your collection successfully!"
+=======
+    "description": "These Easy Baked Coconut Shrimp are crisp, golden and delicious served a sweet and spicy apricot dipping sauce.",
+    "ingredients": "1 egg, 1/2 cup all-purpose flour, 2/3 cup beer, 1 1/2 teaspoons baking powder, 1/4 cup all-purpose flour, 2 cups flaked coconut, 24 shrimp, 3 cups oil for frying",
+    "details": {
+      "one": "In medium bowl, combine egg, 1/2 cup flour, beer and baking powder. Place 1/4 cup flour and coconut in two separate bowls.",
+      "two": "Hold shrimp by tail, and dredge in flour, shaking off excess flour. Dip in egg/beer batter; allow excess to drip off. Roll shrimp in coconut, and place on a baking sheet lined with wax paper. Refrigerate for 30 minutes. Meanwhile, heat oil to 350 degrees F (175 degrees C) in a deep-fryer.",
+      "three": "Fry shrimp in batches: cook, turning once, for 2 to 3 minutes, or until golden brown. Using tongs, remove shrimp to paper towels to drain. Serve warm with your favorite dipping sauce."
+    },
+    "imageURL": "/images/coconut-shrimp.jpg",
+    "detailURL": "/category/4/5",
+    "categoryURL": "/category/4",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Red Velvet Cake": {
+    "categoryID": "5",
+    "recipeID": "1",
+    "categoryName": "Dessert",
+    "name": "Red Velvet Cake",
+    "description": "This recipe produces the best red velvet cake with superior buttery, vanilla, and cocoa flavors, as well as a delicious tang from buttermilk.",
+    "ingredients": "1/2 cup shortening, 1 1/2 cups white sugar, 2 eggs, 2 tablespoons cocoa, 4 tablespoons red food coloring, 1 teaspoon salt, 1 teaspoon vanilla extract, 1 cup buttermilk, 2 1/2 cups sifted all-purpose flour, 1 1/2 teaspoons baking soda, 1 tablespoon distilled white vinegar, 5 tablespoons all-purpose flour, 1 cup milk, 1 cup white sugar, 1 cup butter, 1 teaspoon vanilla extract",
+    "details": {
+      "one": "Preheat oven to 350 degrees F (175 degrees C). Grease two 9-inch round pans. Beat shortening and 1 1/2 cups sugar until very light and fluffy. Add eggs and beat well.",
+      "two": "Make a paste of cocoa and red food coloring; add to creamed mixture. Mix salt, 1 teaspoon vanilla, and buttermilk together. Add the flour to the batter, alternating with the buttermilk mixture, mixing just until incorporated. Mix soda and vinegar and gently fold into cake batter. Don't beat or stir the batter after this point.",
+      "three": "Pour batter into prepared pans. Bake in preheated oven until a tester inserted into the cake comes out clean, about 30 minutes. Cool cakes completely on wire rack.",
+      "four": "To Make Icing: Cook 5 tablespoons flour and milk over low heat till thick, stirring constantly. Let cool completely! While mixture is cooling, beat 1 cup sugar, butter, and 1 teaspoon vanilla until light and fluffy. Add cooled flour mixture and beat until frosting is a good spreading consistency. Frost cake layers when completely cool."
+    },
+    "imageURL": "/images/red-velvet-cake.jpg",
+    "detailURL": "/category/5/1",
+    "categoryURL": "/category/5",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Chocolate Brownies": {
+    "categoryID": "5",
+    "recipeID": "2",
+    "categoryName": "Dessert",
+    "name": "Chocolate Brownies",
+    "description": "The Best Brownie Recipe Ever has the perfect chewy fudge squares of chocolate. You’ll never buy a boxed brownie mix again!",
+    "ingredients": "1/2 cup butter, 1 cup white sugar, 2 eggs, 1 teaspoon vanilla extract, 1/3 cup unsweetened cocoa powder, 1/2 cup all-purpose flour, 1/4 teaspoon salt, 1/4 teaspoon baking powder, 3 tablespoons butter, 3 tablespoons unsweetened cocoa powder, 1 tablespoon honey, 1 teaspoon vanilla extract, 1 cup confectioners' sugar",
+    "details": {
+      "one": "Preheat oven to 350 degrees F (175 degrees C). Grease and flour an 8-inch square pan.",
+      "two": "In a large saucepan, melt 1/2 cup butter. Remove from heat, and stir in sugar, eggs, and 1 teaspoon vanilla. Beat in 1/3 cup cocoa, 1/2 cup flour, salt, and baking powder. Spread batter into prepared pan.",
+      "three": "Bake in preheated oven for 25 to 30 minutes. Do not overcook.",
+      "four": "To Make Frosting: Combine 3 tablespoons softened butter, 3 tablespoons cocoa, honey, 1 teaspoon vanilla extract, and 1 cup confectioners' sugar. Stir until smooth. Frost brownies while they are still warm."
+    },
+    "imageURL": "/images/chocolate-brownies.jpg",
+    "detailURL": "/category/5/2",
+    "categoryURL": "/category/5",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Tiramisu": {
+    "categoryID": "5",
+    "recipeID": "3",
+    "categoryName": "Dessert",
+    "name": "Tiramisu",
+    "description": "A classic no-bake Italian dessert combining espresso-dipped ladyfingers and a creamy lightly sweetened mascarpone cream.",
+    "ingredients": "6 egg yolks, 3/4 cup white sugar, 2/3 cup milk, 1 1/4 cups heavy cream, 1/2 teaspoon vanilla extract, 1 pound mascarpone cheese, 1/4 cup strong brewed coffee, 2 tablespoons rum, 2 (3 ounce) packages ladyfinger cookies, 1 tablespoon unsweetened cocoa powder",
+    "details": {
+      "one": "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over medium heat, stirring constantly, until mixture boils. Boil gently for 1 minute, remove from heat and allow to cool slightly. Cover tightly and chill in refrigerator 1 hour.",
+      "two": "In a medium bowl, beat cream with vanilla until stiff peaks form. Whisk mascarpone into yolk mixture until smooth.",
+      "three": "In a small bowl, combine coffee and rum. Split ladyfingers in half lengthwise and drizzle with coffee mixture.",
+      "four": "Arrange half of soaked ladyfingers in bottom of a 7x11 inch dish. Spread half of mascarpone mixture over ladyfingers, then half of whipped cream over that. Repeat layers and sprinkle with cocoa. Cover and refrigerate 4 to 6 hours, until set."
+    },
+    "imageURL": "/images/tiramisu.jpg",
+    "detailURL": "/category/5/3",
+    "categoryURL": "/category/5",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Caramel Pudding": {
+    "categoryID": "5",
+    "recipeID": "4",
+    "categoryName": "Dessert",
+    "name": "Caramel Pudding",
+    "description": "Only 5 ingredients are needed to make this rich and flavorful caramel pudding. This make-ahead dessert is sure to be a family favorite.",
+    "ingredients": "2 cups whole milk, 2 tablespoons cornstarch, 1 large egg, 2/3 cup sugar, 2 teaspoons vanilla",
+    "details": {
+      "one": "In a bowl, whisk 1/2 cup milk, cornstarch, and egg until well blended.",
+      "two": "In a 2- to 3-quart pan over medium-high heat, tilt and swirl sugar until melted and deep amber, about 4 minutes. Stir in remaining 1 1/2 cups milk; mixture will bubble and sugar will harden. Stir until sugar melts again, about 2 minutes.",
+      "three": "Whisk about 1/2 cup of the caramelized sugar mixture into cornstarch mixture, then return all to pan. Stir over medium-high heat until pudding thickens and begins to bubble, 3 to 5 minutes. Remove from heat and stir in vanilla. Pour into bowls and serve warm. Or let cool, chill airtight up to 2 days, and serve cold."
+    },
+    "imageURL": "/images/caramel-pudding.jpg",
+    "detailURL": "/category/5/4",
+    "categoryURL": "/category/5",
+    "slug": "Saved in your collection successfully!"
+  },
+  "Angel Food Cake": {
+    "categoryID": "5",
+    "recipeID": "5",
+    "categoryName": "Dessert",
+    "name": "Angel Food Cake",
+    "description": "Homemade angel food cake is worth the work. It is moist, unlike the sweet styrofoam available in the grocery bakery.",
+    "ingredients": "1-1/4 cups egg whites (about 9), 1-1/2 cups sugar, 1 cup cake flour, 1-1/4 teaspoons cream of tartar, 1 teaspoon vanilla extract, 1/4 teaspoon almond extract, 1/4 teaspoon salt",
+    "details": {
+      "one": "Place egg whites in a large bowl; let stand at room temperature 30 minutes. Sift 1/2 cup sugar and flour together twice; set aside.",
+      "two": "Place oven rack in the lowest position. Preheat oven to 350°. Add cream of tartar, extracts and salt to egg whites; beat on medium speed until soft peaks form. Gradually add remaining sugar, about 2 tablespoons at a time, beating on high until stiff peaks form. Gradually fold in flour mixture, about 1/2 cup at a time.",
+      "three": "Gently spoon into an ungreased 10-in. tube pan. Cut through batter with a knife to remove air pockets. Bake 35-40 minutes or until lightly browned and entire top appears dry. Immediately invert pan; cool completely, about 1 hour.",
+      "four": "Run a knife around side and center tube of pan. Remove cake to a serving plate."
+    },
+    "imageURL": "/images/angel-food-cake.jpg",
+    "detailURL": "/category/5/5",
+    "categoryURL": "/category/5",
+    "slug": "Saved in your collection successfully!"
+>>>>>>> 5f5274c634cc5e1d0fcf86d3d019453863ae51da
   }
 }

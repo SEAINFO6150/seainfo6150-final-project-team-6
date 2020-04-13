@@ -1,0 +1,56 @@
+.recipeContainer {
+  max-width: 60em;
+  min-width: 20em;
+  margin: auto;
+}
+
+.recipeImg {
+  width: 600px;
+  margin-bottom: 30px;
+}
+
+.recipeName {
+  margin-bottom: 30px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
+.recipeTitle {
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.recipeIngredients {
+  margin-bottom: 30px;
+  font-size: 15px;
+  font-style: italic;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.recipeDetail {
+  font-size: 15px;
+  font-family: Verdana, Helvetica, sans-serif;
+}
+
+.recipeSaveButton {
+  margin-top: 20px;
+  margin-bottom: 30px;
+  border: 1px solid black;
+  border-radius: 10px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 15px;
+  font-family: Futura, Arial, sans-serif;
+}
+
+.recipeBackLink {
+  text-decoration: none;
+  padding-bottom: 50px;
+  color: black;
+  font-size: 20px;
+  font-family: Futura, Arial, sans-serif;
+}
