@@ -11,7 +11,8 @@ const HomePage = () => {
       />
       <h1 className={styles.homeTitle}>Welcome to HOME CHEF!!!</h1>
       <p className={styles.homeText}>
-        We have everything you need to improve the life in the kitchen!
+        We have everything you need to improve the life in the kitchen! After
+        exploring our recipes, hope you'll love to cook/bake even more.
       </p>
       <p className={styles.homeText}>Explore our website and be a HOME CHEF!</p>
     </div>
