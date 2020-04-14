@@ -1,6 +1,7 @@
 import React from "react";
 import { Link } from "react-router-dom";
 import styles from "./DetailPage.module.css";
+import SaveButton from "./SaveButton.jsx";
 
 const getRecipeDetail = (recipe, categoryID, recipeID) => {
   if (recipe.categoryID === categoryID && recipe.recipeID === recipeID) {
@@ -20,12 +21,7 @@ const getRecipeDetail = (recipe, categoryID, recipeID) => {
         <p className={styles.recipeDetail}>{recipe.details.three}</p>
         <p className={styles.recipeDetail}>{recipe.details.four}</p>
         <p>
-          <button
-            className={styles.recipeSaveButton}
-            onClick={() => alert("Saved in your collection successfully!")}
-          >
-            Save in Your Collection
-          </button>
+          <SaveButton />
         </p>
         <p>
           <Link className={styles.recipeBackLink} to={recipe.categoryURL}>
