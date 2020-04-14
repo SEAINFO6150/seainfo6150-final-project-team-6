@@ -44,6 +44,7 @@ const DetailPage = (props) => {
         getRecipeDetail(recipe, props.categoryID, props.recipeID)
       )}
     </div>
+
   );
 };
 

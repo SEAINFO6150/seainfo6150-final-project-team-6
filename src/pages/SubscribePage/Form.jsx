@@ -1,6 +1,4 @@
 import React, {Component} from "react";
-import AboutPage from "../AboutPage/AboutPage";
-import styles from "../CategoryPage/CategoryPage.module.css";
 
 export default class Form extends Component {
     constructor(props) {
@@ -30,18 +28,17 @@ export default class Form extends Component {
             </div>
         ) : (
             <form onSubmit={this.onSubmit}>
-
                 <p>
                     <label htmlFor="name">Name :</label><br/>
                     <input type="name" name="name" placeholder="Your Name.."/>
                 </p>
                 <p>
                     <label htmlFor="Email">Email :</label><br/>
-                    <input type="email" name="email" placeholder="Your Email.."/>
+                    <input required type="email" name="email" placeholder="Your Email.."/>
                 </p>
                 <p>
                     <label htmlFor="Phone"> SMS Text :</label><br/>
-                    <input type="tel" id="tel" name="tel" placeholder="Your Phone Number.."/>
+                    <input required type="tel" id="tel" name="tel" placeholder="Your Phone Number.."/>
                 </p>
                 <p>
                     <label htmlFor="reach"> How can we reach you best ?</label>
@@ -52,7 +49,7 @@ export default class Form extends Component {
                 </p>
                 <p>
                     <label htmlFor="language">Language prefer :</label>
-                    <select id="language" name="language">
+                    <select required id="language" name="language">
                         <option value="English">English</option>
                         <option value="Spanish">Spanish</option>
                         <option value="Chinese">Chinese</option>
