@@ -1,6 +1,6 @@
 .allCategoryDetail {
     margin-bottom: 30px;
-    font-size: 15px;
+    font-size: 20px;
     font-family: Verdana, Helvetica, sans-serif;
 }
 
@@ -13,7 +13,8 @@
     align-items: center;
     color: black;
     background: #a8e063;
-    font-size: 25px;
+    font-size: 30px;
+    font-family: Tahoma, Geneva, sans-serif;
     position: relative;
     text-align: center;
     padding: 32px 50px;
@@ -37,7 +38,8 @@
     align-items: center;
     color: black;
     background: #fa7934;
-    font-size: 25px;
+    font-size: 30px;
+    font-family: Tahoma, Geneva, sans-serif;
     position: relative;
     text-align: center;
     padding: 32px 50px;
@@ -60,7 +62,8 @@
     align-items: center;
     color: black;
     background: #919ef2;
-    font-size: 25px;
+    font-size: 30px;
+    font-family: Tahoma, Geneva, sans-serif;
     position: relative;
     text-align: center;
     padding: 32px 50px;
@@ -83,7 +86,8 @@
     align-items: center;
     color: black;
     background: #c988f2;
-    font-size: 25px;
+    font-size: 30px;
+    font-family: Tahoma, Geneva, sans-serif;
     position: relative;
     text-align: center;
     padding: 32px 50px;
@@ -106,7 +110,8 @@
     align-items: center;
     color: black;
     background: #eff57d;
-    font-size: 25px;
+    font-size: 30px;
+    font-family: Tahoma, Geneva, sans-serif;
     position: relative;
     text-align: center;
     padding: 32px 50px;
