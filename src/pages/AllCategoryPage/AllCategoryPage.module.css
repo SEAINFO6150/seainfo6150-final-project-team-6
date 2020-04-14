@@ -1,3 +1,9 @@
+.allCategoryDetail {
+    margin-bottom: 30px;
+    font-size: 15px;
+    font-family: Verdana, Helvetica, sans-serif;
+}
+
 .soupCategory {
     margin-left: auto;
 }
@@ -13,10 +19,13 @@
     padding: 32px 50px;
     border-bottom: 2px solid grey;
     margin-bottom: 50px;
+    height: 250px;
+    width: 500px;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
     border: 2px solid green;
+    flex-direction: row;
+    margin:auto;
+    display:block;
 }
 
 .appetizerCategory {
@@ -30,16 +39,16 @@
     background: #fa7934;
     font-size: 25px;
     position: relative;
-    left: 250px;
-    top: -20px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
     margin-bottom: 50px;
+    height: 250px;
+    width: 500px;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
     border: 2px solid red;
+    margin:auto;
+    display:block;
 }
 
 .mainCourseCategory {
@@ -53,16 +62,16 @@
     background: #919ef2;
     font-size: 25px;
     position: relative;
-    left: 550px;
-    top: -400px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
     margin-bottom: 50px;
+    height: 250px;
+    width: 500px;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
     border: 2px solid blue;
+    margin:auto;
+    display:block;
 }
 
 .snackCategory {
@@ -76,16 +85,16 @@
     background: #c988f2;
     font-size: 25px;
     position: relative;
-    left: 1000px;
-    top: -770px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
     margin-bottom: 50px;
+    height: 250px;
+    width: 500px;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
     border: 2px solid purple;
+    margin:auto;
+    display:block;
 }
 
 .dessertCategory {
@@ -99,14 +108,14 @@
     background: #eff57d;
     font-size: 25px;
     position: relative;
-    left: 850px;
-    top: -800px;
     text-align: center;
     padding: 32px 50px;
     border-bottom: 2px solid grey;
     margin-bottom: 50px;
+    height: 250px;
+    width: 500px;
     border-radius: 50%;
-    height: 200px;
-    width: 200px;
     border: 2px solid yellow;
+    margin:auto;
+    display:block;
 }

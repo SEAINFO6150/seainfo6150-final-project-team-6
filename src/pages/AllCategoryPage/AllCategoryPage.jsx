@@ -5,6 +5,12 @@ import styles from "./AllCategoryPage.module.css";
 const AllCategoryPage = () => {
   return (
     <div>
+
+      <p className={styles.allCategoryDetail}>
+        Feel free to scroll down the page and click on any of the ovals below.<br/>
+        Pick one or many of the categories you like and start exploring!
+      </p>
+
       <Link className={styles.soupCategory} to="/category/1">
         <button className={styles.soupCategoryButton}>Soup</button>
       </Link>
@@ -19,7 +25,8 @@ const AllCategoryPage = () => {
       </Link>
       <Link className={styles.dessertCategory} to="/category/5">
         <button className={styles.dessertCategoryButton}>Dessert</button>
-      </Link>
+      </Link>   
+
     </div>
   );
 };
