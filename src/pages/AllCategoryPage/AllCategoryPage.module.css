@@ -1,126 +1,35 @@
+.allCategoryContainer {
+  max-width: 35rem;
+  min-width: 20em;
+  text-align: center;
+  margin: 50px auto;
+}
+
 .allCategoryDetail {
-    margin-bottom: 30px;
-    font-size: 20px;
-    font-family: Verdana, Helvetica, sans-serif;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-family: Verdana, Helvetica, sans-serif;
 }
 
-.soupCategory {
-    margin-left: auto;
+.allCategoryCard {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-top: 50px;
+  border: 2px solid grey;
+  border-radius: 100px;
+  padding: 50px;
 }
 
-.soupCategoryButton {
-    display: flex;
-    align-items: center;
-    color: black;
-    background: #a8e063;
-    font-size: 30px;
-    font-family: Tahoma, Geneva, sans-serif;
-    position: relative;
-    text-align: center;
-    padding: 32px 50px;
-    border-bottom: 2px solid grey;
-    margin-bottom: 50px;
-    height: 250px;
-    width: 500px;
-    border-radius: 50%;
-    border: 2px solid green;
-    flex-direction: row;
-    margin:auto;
-    display:block;
+.allCategoryImg {
+  width: 200px;
+  border-radius: 50%;
 }
 
-.appetizerCategory {
-    margin-left: auto;
-}
-
-.appetizerCategoryButton {
-    display: flex;
-    align-items: center;
-    color: black;
-    background: #fa7934;
-    font-size: 30px;
-    font-family: Tahoma, Geneva, sans-serif;
-    position: relative;
-    text-align: center;
-    padding: 32px 50px;
-    border-bottom: 2px solid grey;
-    margin-bottom: 50px;
-    height: 250px;
-    width: 500px;
-    border-radius: 50%;
-    border: 2px solid red;
-    margin:auto;
-    display:block;
-}
-
-.mainCourseCategory {
-    margin-left: auto;
-}
-
-.mainCourseCategoryButton {
-    display: flex;
-    align-items: center;
-    color: black;
-    background: #919ef2;
-    font-size: 30px;
-    font-family: Tahoma, Geneva, sans-serif;
-    position: relative;
-    text-align: center;
-    padding: 32px 50px;
-    border-bottom: 2px solid grey;
-    margin-bottom: 50px;
-    height: 250px;
-    width: 500px;
-    border-radius: 50%;
-    border: 2px solid blue;
-    margin:auto;
-    display:block;
-}
-
-.snackCategory {
-    margin-left: auto;
-}
-
-.snackCategoryButton {
-    display: flex;
-    align-items: center;
-    color: black;
-    background: #c988f2;
-    font-size: 30px;
-    font-family: Tahoma, Geneva, sans-serif;
-    position: relative;
-    text-align: center;
-    padding: 32px 50px;
-    border-bottom: 2px solid grey;
-    margin-bottom: 50px;
-    height: 250px;
-    width: 500px;
-    border-radius: 50%;
-    border: 2px solid purple;
-    margin:auto;
-    display:block;
-}
-
-.dessertCategory {
-    margin-left: auto;
-}
-
-.dessertCategoryButton {
-    display: flex;
-    align-items: center;
-    color: black;
-    background: #eff57d;
-    font-size: 30px;
-    font-family: Tahoma, Geneva, sans-serif;
-    position: relative;
-    text-align: center;
-    padding: 32px 50px;
-    border-bottom: 2px solid grey;
-    margin-bottom: 50px;
-    height: 250px;
-    width: 500px;
-    border-radius: 50%;
-    border: 2px solid yellow;
-    margin:auto;
-    display:block;
+.allCategoryName {
+  margin-left: 50px;
+  color: black;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Tahoma, Geneva, sans-serif;
 }
