@@ -63,14 +63,14 @@ export default class Form extends Component {
                     <label htmlFor="type5">Dessert </label>
                 </p>
                 <p>
-                    <label htmlFor="reach"> How can we reach you best ?   </label>
+                    <label htmlFor="reach"> How can we reach you best ?   </label><br/>
                     <select id="type" name="type">
                         <option value="Email">Email</option>
                         <option value="SMS">SMS</option>
                     </select>
                 </p>
                 <p>
-                    <label htmlFor="language">Language prefer :    </label>
+                    <label htmlFor="language">Language prefer :    </label><br/>
                     <select required id="language" name="language">
                         <option value="English">English</option>
                         <option value="Spanish">Spanish</option>

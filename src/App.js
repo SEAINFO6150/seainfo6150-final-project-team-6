@@ -15,6 +15,14 @@ import ErrorPage from "./pages/ErrorPage/ErrorPage.jsx";
 /* css */
 import styles from "./nav.module.css";
 
+const allCategorys = {
+  Soup: { id: "1", name: "Soup" },
+  Appetizer: { id: "2", name: "Appetizer" },
+  MainCourse: { id: "3", name: "Main Course" },
+  Snack: { id: "4", name: "Snack" },
+  Dessert: { id: "5", name: "Dessert" },
+};
+
 const myCollection = {
   "Lemony Turkey Rice Soup": {
     name: "Lemony Turkey Rice Soup",
@@ -93,6 +101,7 @@ function App() {
           render={({ match }) => (
             <CategoryPage
               categoryID={match.params.categoryID}
+              categorys={Object.values(allCategorys)}
               content={Object.values(recipes)}
             />
           )}

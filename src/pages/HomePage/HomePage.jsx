@@ -6,7 +6,7 @@ const HomePage = () => {
     <div className={styles.homeContainer}>
       <img
         className={styles.homeImg}
-        src="/images/homepage.jpg"
+        srcset="/images/homepage-3.jpg 400w, /images/homepage-2.jpg 600w, /images/homepage-1.jpg 800w"
         alt="homepage"
       />
       <h1 className={styles.homeTitle}>Welcome to HOME CHEF!!!</h1>

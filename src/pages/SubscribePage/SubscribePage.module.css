@@ -1,22 +1,18 @@
 .container {
     max-width: 35rem;
     min-width: 20em;
-    margin: auto;
-    font-family: Tahoma, Geneva, sans-serif;
-
-    text-decoration: none;
     display: grid;
-    margin-top: 50px;
+    margin: 50px auto;
     border: 2px solid grey;
     border-radius: 50px;
     padding: 60px;
+    font-family: Tahoma, Geneva, sans-serif;
 }
-
 
 input[type="name"],
 input[type="email"],
 input[type="tel"],
-input[type="text"]{
+input[type="text"] {
     width: 100%;
     padding: 15px;
     border: 1px solid #ccc;
@@ -24,11 +20,12 @@ input[type="text"]{
     box-sizing: border-box;
     margin-top: 5px;
     margin-bottom: 10px;
-    resize: vertical
+    resize: vertical;
+    font-size: 15px;
 }
 
 input[type="type"],
-input[type="language"]{
+input[type="language"] {
     width: 100%;
     padding: 15px;
     border: 1px solid #ccc;
@@ -36,13 +33,13 @@ input[type="language"]{
     box-sizing: border-box;
     margin-top: 5px;
     margin-bottom: 10px;
-    resize: vertical
+    resize: vertical;
 }
-input[type="radio"]{
+
+input[type="radio"] {
     -webkit-appearance: none;
     -moz-appearance: none;
     appearance: none;
-
     border-radius: 50%;
     width: 15px;
     height: 15px;
@@ -60,14 +57,14 @@ input:checked {
     border: 6px solid;
 }
 
-select{
+select {
     font-size: .9rem;
     padding: 15px;
     margin-top: 5px;
     margin-bottom: 5px;
 }
 
-textarea{
+textarea {
     width: 100%;
     padding: 15px;
     height: 100px;
@@ -79,7 +76,7 @@ textarea{
     resize: vertical
 }
 
-input[type="submit"]{
+input[type="submit"] {
     text-align: center;
     text-decoration: none;
     display: inline-block;

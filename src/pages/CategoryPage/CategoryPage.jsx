@@ -2,6 +2,16 @@ import React from "react";
 import { Link } from "react-router-dom";
 import styles from "./CategoryPage.module.css";
 
+const getCategoryTitle = (category, categoryID) => {
+  if (category.id === categoryID) {
+    return (
+      <div className={styles.categoryTitle}>
+        <p>{category.name}</p>
+      </div>
+    );
+  }
+};
+
 const getRecipePreview = (recipe, categoryID) => {
   if (recipe.categoryID === categoryID) {
     return (
@@ -30,6 +40,9 @@ const CategoryPage = (props) => {
       <Link className={styles.categoryBackLink} to="/category">
         &lt; Back to All Category Page
       </Link>
+      {props.categorys.map((category) =>
+        getCategoryTitle(category, props.categoryID)
+      )}
       {props.content.map((recipe) =>
         getRecipePreview(recipe, props.categoryID)
       )}

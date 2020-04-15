@@ -11,6 +11,14 @@
   font-family: Futura, Arial, sans-serif;
 }
 
+.categoryTitle {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Tahoma, Geneva, sans-serif;
+}
+
 .categoryCard {
   text-decoration: none;
   display: grid;
