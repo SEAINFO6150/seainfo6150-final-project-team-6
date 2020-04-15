@@ -7,14 +7,12 @@
 .categoryBackLink {
   text-decoration: none;
   color: black;
-  font-size: 20px;
   font-family: Futura, Arial, sans-serif;
 }
 
 .categoryTitle {
   text-align: center;
   margin-top: 50px;
-  font-size: 25px;
   font-weight: bold;
   font-family: Tahoma, Geneva, sans-serif;
 }
@@ -45,7 +43,6 @@
 }
 
 .categoryRecipeName {
-  font-size: 20px;
   font-weight: bold;
   color: black;
   font-family: Tahoma, Geneva, sans-serif;
@@ -54,7 +51,6 @@
 .categoryRecipeDescription {
   grid-column-start: 2;
   grid-column-end: 3;
-  font-size: 15px;
   font-style: italic;
   color: black;
   font-family: Verdana, Helvetica, sans-serif;
@@ -63,10 +59,63 @@
 .categoryText {
   text-align: center;
   margin: 50px;
-  font-size: 20px;
   font-family: Futura, Arial, sans-serif;
 }
 
 .categorySubscribe {
   color: black;
+}
+
+@media screen and (min-width: 600px) {
+  .categoryBackLink {
+    font-size: 15px;
+  }
+  .categoryTitle {
+    font-size: 20px;
+  }
+  .categoryRecipeName {
+    font-size: 15px;
+  }
+  .categoryRecipeDescription {
+    font-size: 12px;
+  }
+  .categoryText {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .categoryBackLink {
+    font-size: 18px;
+  }
+  .categoryTitle {
+    font-size: 22px;
+  }
+  .categoryRecipeName {
+    font-size: 18px;
+  }
+  .categoryRecipeDescription {
+    font-size: 14px;
+  }
+  .categoryText {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .categoryBackLink {
+    font-size: 20px;
+  }
+  .categoryTitle {
+    font-size: 25px;
+  }
+  .categoryRecipeName {
+    font-size: 20px;
+  }
+  .categoryRecipeDescription {
+    font-size: 15px;
+  }
+  .categoryText {
+    font-size: 20px;
+  }
 }

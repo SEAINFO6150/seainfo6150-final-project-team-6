@@ -6,13 +6,11 @@
 
 .contactTitle {
   margin-bottom: 30px;
-  font-size: 20px;
   font-weight: bold;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
 .contactLabel {
-  font-size: 15px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
@@ -25,7 +23,6 @@
   border: 1px solid #ccc;
   border-radius: 5px;
   padding: 15px;
-  font-size: 15px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
@@ -40,4 +37,40 @@
   padding: 5px 25px;
   font-size: 15px;
   font-family: Futura, Arial, sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+  .contactTitle {
+    font-size: 15px;
+  }
+  .contactLabel {
+    font-size: 12px;
+  }
+  .contactForm {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .contactTitle {
+    font-size: 18px;
+  }
+  .contactLabel {
+    font-size: 14px;
+  }
+  .contactForm {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .contactTitle {
+    font-size: 20px;
+  }
+  .contactLabel {
+    font-size: 15px;
+  }
+  .contactForm {
+    font-size: 15px;
+  }
 }

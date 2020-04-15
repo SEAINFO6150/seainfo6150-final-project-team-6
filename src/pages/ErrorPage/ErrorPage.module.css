@@ -6,24 +6,65 @@
 }
 
 .error h1 {
-  font-size: 25px;
   font-weight: bold;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
 .error h2 {
-  font-size: 20px;
   font-weight: bold;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
 .error p {
   margin-bottom: 50px;
-  font-size: 15px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
 .error img {
-  width: 900px;
   margin-bottom: 30px;
+}
+
+@media screen and (min-width: 600px) {
+  .error img {
+    width: 400px;
+  }
+  .error h1 {
+    font-size: 20px;
+  }
+  .error h2 {
+    font-size: 15px;
+  }
+  .error p {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .error img {
+    width: 600px;
+  }
+  .error h1 {
+    font-size: 22px;
+  }
+  .error h2 {
+    font-size: 18px;
+  }
+  .error p {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .error img {
+    width: 800px;
+  }
+  .error h1 {
+    font-size: 25px;
+  }
+  .error h2 {
+    font-size: 20px;
+  }
+  .error p {
+    font-size: 15px;
+  }
 }

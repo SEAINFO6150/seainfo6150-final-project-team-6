@@ -7,7 +7,6 @@
 
 .allCategoryDetail {
   margin-bottom: 30px;
-  font-size: 20px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
@@ -29,7 +28,33 @@
 .allCategoryName {
   margin-left: 50px;
   color: black;
-  font-size: 25px;
   font-weight: bold;
   font-family: Tahoma, Geneva, sans-serif;
+}
+
+@media screen and (min-width: 600px) {
+  .allCategoryDetail {
+    font-size: 15px;
+  }
+  .allCategoryName {
+    font-size: 20px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .allCategoryDetail {
+    font-size: 18px;
+  }
+  .allCategoryName {
+    font-size: 22px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .allCategoryDetail {
+    font-size: 20px;
+  }
+  .allCategoryName {
+    font-size: 25px;
+  }
 }

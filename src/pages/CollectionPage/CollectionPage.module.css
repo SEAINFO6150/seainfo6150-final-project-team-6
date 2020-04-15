@@ -65,3 +65,39 @@
 .collectionSubscribe {
   color: black;
 }
+
+@media screen and (min-width: 600px) {
+  .collectionRecipeName {
+    font-size: 15px;
+  }
+  .collectionRecipeDescription {
+    font-size: 12px;
+  }
+  .collectionText {
+    font-size: 15px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .collectionRecipeName {
+    font-size: 18px;
+  }
+  .collectionRecipeDescription {
+    font-size: 14px;
+  }
+  .collectionText {
+    font-size: 18px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .collectionRecipeName {
+    font-size: 20px;
+  }
+  .collectionRecipeDescription {
+    font-size: 15px;
+  }
+  .collectionText {
+    font-size: 20px;
+  }
+}

@@ -5,29 +5,70 @@
 }
 
 .aboutImg {
-  width: 600px;
   margin-bottom: 30px;
   border-radius: 10px;
 }
 
 .aboutTitle {
-  font-size: 20px;
   font-weight: bold;
   font-family: Tahoma, Geneva, sans-serif;
 }
 
 .aboutDetail {
   margin-bottom: 30px;
-  font-size: 15px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
 .aboutSubscribe {
   margin-bottom: 50px;
-  font-size: 15px;
   font-family: Verdana, Helvetica, sans-serif;
 }
 
 .aboutSubscribeButton {
   color: black;
+}
+
+@media screen and (min-width: 600px) {
+  .aboutImg {
+    width: 400px;
+  }
+  .aboutTitle {
+    font-size: 15px;
+  }
+  .aboutDetail {
+    font-size: 12px;
+  }
+  .aboutSubscribe {
+    font-size: 12px;
+  }
+}
+
+@media screen and (min-width: 900px) {
+  .aboutImg {
+    width: 500px;
+  }
+  .aboutTitle {
+    font-size: 18px;
+  }
+  .aboutDetail {
+    font-size: 14px;
+  }
+  .aboutSubscribe {
+    font-size: 14px;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .aboutImg {
+    width: 600px;
+  }
+  .aboutTitle {
+    font-size: 20px;
+  }
+  .aboutDetail {
+    font-size: 15px;
+  }
+  .aboutSubscribe {
+    font-size: 15px;
+  }
 }
