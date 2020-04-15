@@ -1,4 +1,5 @@
 import React, {Component} from "react";
+import styles from "../DetailPage/SaveButton.module.css";
 
 export default class Form extends Component {
     constructor(props) {
@@ -41,25 +42,15 @@ export default class Form extends Component {
                     <input required type="tel" id="tel" name="tel" placeholder="Your Phone Number.."/>
                 </p>
                 <p>
-                    <label htmlFor="reach"> How can we reach you best ?</label>
-                    <select id="type" name="type">
-                        <option value="Email">Email</option>
-                        <option value="SMS">SMS</option>
-                    </select>
+                    <label htmlFor="want">Any other recipes do you want to know :   </label><br/>
+                    <input type="text" name="text" placeholder="Any Recipes..."/>
                 </p>
                 <p>
-                    <label htmlFor="language">Language prefer :</label>
-                    <select required id="language" name="language">
-                        <option value="English">English</option>
-                        <option value="Spanish">Spanish</option>
-                        <option value="Chinese">Chinese</option>
-                        <option value="French">French</option>
-                        <option value="Russian">Russian</option>
-                        <option value="Arabic">Arabic</option>
-                    </select>
+                    <label htmlFor="comments">Anything we can improve :   </label><br/>
+                    <textarea type="text" name="text" placeholder="Any Comments..."/>
                 </p>
                 <p>
-                    <label htmlFor="recipeType">Choose recipe type you like most : </label><br/>
+                    <label htmlFor="recipeType">Choose recipe type you like most in Home Chef:   </label><br/>
                     <input type="radio" name="recipeType" value="Soup"/>
                     <label htmlFor="type1">Soup </label>
                     <input type="radio" name="recipeType" value="Appetizer"/>
@@ -70,6 +61,28 @@ export default class Form extends Component {
                     <label htmlFor="type4">Snack </label>
                     <input type="radio" name="recipeType" value="Dessert"/>
                     <label htmlFor="type5">Dessert </label>
+                </p>
+                <p>
+                    <label htmlFor="reach"> How can we reach you best ?   </label>
+                    <select id="type" name="type">
+                        <option value="Email">Email</option>
+                        <option value="SMS">SMS</option>
+                    </select>
+                </p>
+                <p>
+                    <label htmlFor="language">Language prefer :    </label>
+                    <select required id="language" name="language">
+                        <option value="English">English</option>
+                        <option value="Spanish">Spanish</option>
+                        <option value="Chinese">Chinese</option>
+                        <option value="French">French</option>
+                        <option value="Russian">Russian</option>
+                        <option value="Arabic">Arabic</option>
+                    </select>
+                </p>
+                <p>
+                    <input required type="radio" name="accept" value=""/>
+                    <label htmlFor="accept">  I agree to receive message and updates from Home Chef.</label>
                 </p>
                 <p>
                     <input type="Submit" value="Send it"/>

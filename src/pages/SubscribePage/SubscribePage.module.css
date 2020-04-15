@@ -15,7 +15,8 @@
 
 input[type="name"],
 input[type="email"],
-input[type="tel"]{
+input[type="tel"],
+input[type="text"]{
     width: 100%;
     padding: 15px;
     border: 1px solid #ccc;
@@ -43,8 +44,8 @@ input[type="radio"]{
     appearance: none;
 
     border-radius: 50%;
-    width: 16px;
-    height: 16px;
+    width: 15px;
+    height: 15px;
 
     border: 1px solid #999;
     margin-right: 2px;
@@ -61,7 +62,21 @@ input:checked {
 
 select{
     font-size: .9rem;
+    padding: 15px;
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
 
+textarea{
+    width: 100%;
+    padding: 15px;
+    height: 100px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    resize: vertical
 }
 
 input[type="submit"]{
